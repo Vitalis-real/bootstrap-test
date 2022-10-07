@@ -1,0 +1,21 @@
+.logo-image {
+  height: 43px;
+  margin-top: -53px;
+  margin-bottom: -47px;
+}
+
+.navbar-nav .dropdown-menu {
+  background-color: #dc3545;
+}
+
+body {
+  background-color: wheat;
+}
+
+.accordion-item {
+  background-color: #f5deb3;
+}
+
+.accordion-button {
+  background-color: #ffc107;
+}
